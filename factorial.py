@@ -13,3 +13,8 @@ if __name__== "__main__":
     except ValueError:
         print("Помилка: введіть ціле число щоб програма могла зробити розрахкнок факторіалу.")
             
+
+#fghhmhkfgophfg,o-pnurgfsdmynf
+#fghhmhkfgophfg,o-pnurgfsdmynf#fghhmhkfgophfg,o-pnurgfsdmynf
+#fghhmhkfgophfg,o-pnurgfsdmynf
+#fghhmhkfgophfg,o-pnurgfsdmynf#fghhmhkfgophfg,o-pnurgfsdmynf
