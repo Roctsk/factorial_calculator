@@ -11,5 +11,5 @@ if __name__== "__main__":
         number = int(input("Введіть ціле число: "))
         print(f"Факторіал числа {number} дорівнює {calculator_factorial(number)}")
     except ValueError:
-        print("Помилка: введіть ціле число.")
+        print("Помилка: введіть ціле число щоб програма могла зробити розрахкнок факторіалу.")
             
